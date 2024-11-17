@@ -26,6 +26,7 @@ export default function Home() {
           <li>History</li>
           <li>Games</li>
           <li>Serbia</li>
+          <li>Construction</li>
         </ul>
       </div>
 
